@@ -41,11 +41,11 @@
 
 ## Deploy To VPS
 ```
-git clone https://github.com/AshutoshGoswami24/text-leech-bot
+git clone https://github.com/Soninkuwal/text-leech-bot000
 ```
 
 ```
-cd text-leech-bot
+cd text-leech-bot000
 ```
 
 ```
